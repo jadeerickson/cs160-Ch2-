@@ -1,0 +1,17 @@
+public class Hello {
+
+    public static void main(String[] args) {
+      
+ 
+  int currentdate = 14 ;
+  int currentyear = 2019 ;
+  
+  System.out.println ("Monday" );
+  System.out.println (currentdate); 
+  System.out.println ("October");
+  System.out.println (currentyear);
+  
+  System.out.println ("Monday " + currentdate + " october "  + currentyear);
+    }
+    
+}
