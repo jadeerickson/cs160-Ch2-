@@ -1,0 +1,13 @@
+import java.util.*;
+import java.text.*;
+import java.text.SimpleDateFormat;
+
+public class hello  {
+
+   public static void main(String args[]) {
+      Date dNow = new Date( );
+      SimpleDateFormat (" hh:mm:ss ");
+
+      System.out.println("Current Date: " + ft.format(dNow));
+   }
+}
